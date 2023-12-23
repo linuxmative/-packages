@@ -1,2 +1,2 @@
-# -packages
+# packages
 Linux Mative package repository 
